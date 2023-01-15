@@ -1,0 +1,10 @@
+/* ::-ms-fill-upperReset STYLES--- */
+@import url(./reset.css);
+/* ---COMMON STYLES--- */
+@import url(./common.css);
+/* ---Header Styles--- */
+@import url(./header.css);
+/* ---Footer Styles--- */
+@import url(./footer.css);
+/* ---HomePage Styles--- */
+@import url(./homepage.css);
